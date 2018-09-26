@@ -1,0 +1,4 @@
+TestSchema DEFINITIONS AUTOMATIC TAGS ::=
+BEGIN
+    OctetString ::= OCTET STRING
+END
